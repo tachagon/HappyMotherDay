@@ -9,4 +9,4 @@ I have learned how to build an app’s layout from [Android Basics: User Interfa
 
 ### Example of Application
 
-![Example of tatchagon's mother's day card app](https://i.imgur.com/FcRmqus.jpg)
+![Example of tatchagon's mother's day card app](https://i.imgur.com/FcRmqusl.jpg)
